@@ -1,0 +1,7 @@
+G:\.net traing\Assignments\Day04\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+G:\.net traing\Assignments\Day04\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+G:\.net traing\Assignments\Day04\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+G:\.net traing\Assignments\Day04\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+G:\.net traing\Assignments\Day04\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+G:\.net traing\Assignments\Day04\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
